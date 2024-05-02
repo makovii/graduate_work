@@ -3,7 +3,7 @@
 Nodejs and typescript compiler need to be installed
 
 ## 2
-Run command below in terminal for transform typescript code to js code using tsconfig,json
+Run command below in terminal for transform typescript code to js code using tsconfig.json
 ```
 tsc
 ```
